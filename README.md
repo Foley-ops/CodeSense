@@ -23,7 +23,9 @@ Dive into challenges crafted specifically for the C programming language. These 
 
 ### Python
 
-Comming soon...
+Dive into challenges crafted specifically for the Python programming language. These challenges touch upon both the elegant simplicity and the powerful capabilities of Python, making them suitable for learners at varying stages of their Python journey.
+
+- [Spell Checker](C/Spell%20Checker)
 
 ---
 
