@@ -15,9 +15,9 @@ This repository organizes challenges by the programming language, making it a co
 
 Dive into challenges crafted specifically for the C programming language. These challenges touch upon fundamental and intricate aspects of C, making them suitable for learners at varying stages of their C journey.
 
-- [Swap Two Numbers Using Pointers](C/Swap%Two%Numbers)
-- [Dynamic Array Input and Sum](C/Dynamic%Array%Input%and%Sum)
-- [Reverse a String Using Pointers](C/Reverse%a%String)
+- [Swap Two Numbers Using Pointers](GPT-Challenges/C/Swap%20Two%20Numbers)
+- [Dynamic Array Input and Sum](GPT-Challenges/C/Dynamic%20Array%20Input%20and%20Sum)
+- [Reverse a String Using Pointers](GPT-Challenges/C/Reverse%20a%20String)
 
 ---
 
