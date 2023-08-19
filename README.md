@@ -6,8 +6,8 @@ This repository organizes challenges by the programming language, making it a co
 
 ## Table of Contents
 
-- [C](#C)
-- [Python](#Python)
+- [C](#c)
+- [Python](#python)
 
 ---
 
