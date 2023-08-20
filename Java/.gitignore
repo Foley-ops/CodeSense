@@ -1,0 +1,57 @@
+# Compiled bytecode
+*.class
+*.jar
+*.war
+*.ear
+*.jmod
+*.so
+*.dll
+
+# Log files
+*.log
+
+# Package files
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven wrapper and cache
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/MavenWrapperDownloader.java
+.mvn/wrapper/maven-wrapper.dll
+.mvn/.roam
+
+# IDE-specific
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+tmp/
+target/
+.metadata
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+rebel.xml
+
+# IntelliJ IDEA
+*.iml
+*.iws
+.idea/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# OS-specific
+.DS_Store
+Thumbs.db
