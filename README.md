@@ -1,8 +1,8 @@
-# GPT-Challenges
+# CodeQuest
 
-Welcome to GPT-Challenges, your one-stop destination for diverse coding challenges! Curated with the assistance of OpenAI's GPT, this repository blossoms with solutions and challenges spanning multiple programming languages. Whether you're taking your first steps in coding or you're a veteran seeking fresh puzzles, there's something here for everyone.
+Welcome to CodeQuest, your one-stop destination for diverse coding challenges! Curated from youtube, various websites, and OpenAI's GPT, this repository blossoms with solutions and challenges spanning multiple programming languages. Whether you're taking your first steps in coding or you're a veteran seeking fresh puzzles, there's something here for everyone.
 
-Driven by a vision to make programming accessible and enjoyable for all, I've committed to adding at least one challenge daily. It's not just about improving coding skills, but about building a community that learns, grows, and thrives together. Through GPT-Challenges, I aim to simplify complex concepts, share the joy of problem-solving, and ignite the spark of programming in everyone.
+Driven by a vision to make programming accessible and enjoyable for all, I've committed to adding at least one challenge daily. It's not just about improving coding skills, but about building a community that learns, grows, and thrives together. Through CodeQuest, I aim to simplify complex concepts, share the joy of problem-solving, and ignite the spark of programming in everyone.
 
 This repository is thoughtfully organized by programming language, ensuring a smooth learning curve for enthusiasts across all domains.
 
@@ -43,6 +43,19 @@ Explore challenges meticulously designed for the Python programming language. De
 - [Count the Vowels](Python/Count%20the%20Vowels)
 - [Odd or Even](Python/Odd%20or%20Even)
 - [Find the Largest Numbers](Python/Find%20the%20Largest%20Numbers)
+
+---
+
+## Goals
+
+At CodeQuest, our primary focus is not just on presenting coding problems but on creating an enriched learning environment suitable for all skill levels. Here's a snapshot of our objectives:
+
+- **Skill-Level Directories:** Implement directories titled Beginner, Intermediate, and Advanced to allow users to swiftly navigate challenges resonating with their proficiency.
+- **Dynamic Challenge Spectrum:** Regularly update with diverse problems, ensuring we cater to both beginners and seasoned developers. Maintain our commitment to adding a challenge daily.
+- **Engaging Community Feedback:** Incorporate community-suggested challenges to encourage collaboration and collective growth.
+- **Comprehensive Learning Resources:** Aim to provide additional resources, tutorials, and guides that complement the challenges, ensuring learners receive a holistic experience.
+
+Feel free to contribute your ideas and suggestions to help us refine and enhance our repository!
 
 ---
 
