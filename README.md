@@ -19,6 +19,7 @@ Dive into challenges crafted specifically for the C programming language. These 
 - [Swap Two Numbers Using Pointers](C/Swap%20Two%20Numbers)
 - [Dynamic Array Input and Sum](C/Dynamic%20Array%20Input%20and%20Sum)
 - [Reverse a String Using Pointers](C/Reverse%20a%20String)
+- [Pointer Arithmetic: Navigate an Array](C/Pointer%20Arithmetic/)
 
 ---
 
