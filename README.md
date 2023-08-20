@@ -7,6 +7,7 @@ This repository organizes challenges by the programming language, making it a co
 ## Table of Contents
 
 - [C](#c)
+- [Java](#java)
 - [Python](#python)
 
 ---
@@ -18,6 +19,15 @@ Dive into challenges crafted specifically for the C programming language. These 
 - [Swap Two Numbers Using Pointers](C/Swap%20Two%20Numbers)
 - [Dynamic Array Input and Sum](C/Dynamic%20Array%20Input%20and%20Sum)
 - [Reverse a String Using Pointers](C/Reverse%20a%20String)
+
+---
+
+### Java
+
+Venture into challenges specifically curated for the Java programming language. Embrace the robust and object-oriented essence of Java through these tasks. Suitable for novices grasping the foundational Java concepts, as well as seasoned programmers refining their expertise.
+
+- [Palindrome Checker](Java/Palindrome%20Checker/)
+- [Temperature Converter](Java/Temperature%20Converter/)
 
 ---
 
