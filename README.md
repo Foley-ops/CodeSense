@@ -27,6 +27,9 @@ Explore challenges meticulously designed for the Python programming language. De
 
 - [Spell Checker](Python/Spell%20Checker)
 - [Palindrome Partitions](Python/Palindrome%20Partitions)
+- [Count the Vowels](Python/Count%20the%20Vowels)
+- [Odd or Even](Python/Odd%20or%20Even)
+- [Find the Largest Numbers](Python/Find%20the%20Largest%20Numbers)
 
 ---
 
