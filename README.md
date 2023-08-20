@@ -26,6 +26,7 @@ Dive into challenges crafted specifically for the C programming language. These 
 Explore challenges meticulously designed for the Python programming language. Delving into its dynamic nature and rich libraries, these tasks cater to both beginners discovering Python's charm and seasoned developers honing their craft.
 
 - [Spell Checker](Python/Spell%20Checker)
+- [Palindrome Partitions](Python\Palindrome%20Partitions)
 
 ---
 
