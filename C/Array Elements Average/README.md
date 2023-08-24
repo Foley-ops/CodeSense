@@ -66,3 +66,7 @@ int main() {
     return 0;
 }
 ```
+
+### Expected Outcome
+
+After entering a specific number of integers, the program should display their average.
