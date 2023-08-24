@@ -1,6 +1,6 @@
 # Array Elements Average (C)
 
-## Description:
+## Description
 
 In this challenge, you will create a C program that:
 
@@ -10,7 +10,7 @@ In this challenge, you will create a C program that:
 
 Arrays are foundational data structures in C, allowing you to store multiple elements of the same data type in contiguous memory locations. They can be accessed by indexing, starting from zero.
 
-## Walkthrough:
+## Walkthrough
 
 1. **Initialization**:
 
@@ -29,12 +29,12 @@ Arrays are foundational data structures in C, allowing you to store multiple ele
 4. **Output**:
    - Print the computed average.
 
-## Hints:
+## Hints
 
 - Use the `%d` format specifier in `printf` and `scanf` to deal with integers.
 - Remember that array indexing starts from `0`, so if a user decides to input `5` elements, the array elements will be stored in positions `0` through `4`.
 
-## Sample Code Skeleton:
+## Sample Code Skeleton
 
 ```c
 #include <stdio.h>
