@@ -48,5 +48,5 @@ The provided C code demonstrates a simple stack implementation. Here's what's ha
         printf("Stack is empty. Cannot pop.\n");
         return -1; // Assuming -1 indicates an error
     }
-
+```
 In the above code snippet, for example, the comment indicates that -1 is returned as an error value when trying to pop from an empty stack.
