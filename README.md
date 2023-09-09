@@ -23,6 +23,7 @@ Dive into challenges crafted specifically for the C programming language. These 
 - [Reverse a String Using Pointers](C/Reverse%20a%20String)
 - [Pointer Arithmetic: Navigate an Array](C/Pointer%20Arithmetic/)
 - [Array Elements Average](C/Array%20Elements%20Average/)
+- [Stack Explanation](C/Stack%20Explanation/)
 
 ---
 
