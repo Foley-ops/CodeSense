@@ -2,7 +2,7 @@
 
 ## Description:
 
-Write a program in C (specifically C99) that swaps the values of two integers using pointers.
+Write a program in C (specifically C99) that swaps the values of two integers using pointers. 
 
 ## Hints:
 
@@ -11,4 +11,4 @@ Write a program in C (specifically C99) that swaps the values of two integers us
 
 ## Expected Outcome:
 
-When provided with two integer inputs, the program should output their values swapped.
+When provided with two integer inputs, the program should output their values swapped, demonstrating the use of pointers.
